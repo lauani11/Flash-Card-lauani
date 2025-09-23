@@ -9,15 +9,13 @@ Criacartao(
     '100'
 )
 Criacartao(
-    'Geografia'
-    'Qual o nome do único satélite natural da terra?
-',
+    'Geografia',
+    'Qual o nome do único satélite natural da terra?',
     'lua'
 )
 Criacartao(
-    'geografia'
-    'Qual é o maior pais da América do sul?
-',
+    'geografia',
+    'Qual é o maior pais da América do sul?',
     'Brasil'
 )
 Criacartao(
